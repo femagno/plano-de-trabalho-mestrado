@@ -1,0 +1,76 @@
+\documentclass[]{IEEEphot}
+\usepackage[utf8]{inputenc}
+\usepackage{dtk-logos} % for BibTeX stylized logo
+
+\title{\textbf{Universisdade Federal do Pará (UFPA)\\Programa de Pós-Graduação em Engenharia Elétrica (PPGEE)\\Plano de Trabalho – Mestrado}}
+
+
+\begin{document}
+
+\author{Fernanda Alves Magno}
+
+\affil{Área de Concentração: Sistemas de Energia\\Linha de Pesquisa: Sistemas Elétricos de Potência}  
+
+\maketitle
+
+%\markboth{}{}
+
+%\begin{abstract}
+%	O uso de Geração Distribuída traz diversos benefícios. A inserção dessas novas fontes é crescente no mercado. Essa proposta apresenta o projeto da estrutura de uma Microrrede, em uma rede real, inserindo pontos de fontes renováveis e armazenamento de energia. 
+%\end{abstract}
+
+%\begin{IEEEkeywords}
+%	Dimensionamento Ótimo, Energia Fotovoltaica, Geração Distribuída, Microrrede.
+%\end{IEEEkeywords}
+
+	\section{Tema}
+Estudo de Viabilidade Econômica e Energética na Alocação e Dimensionamento Ótimo de Geração Distribuída Fotovoltaica em uma Microrrede.
+
+\section{Palavras-chave}
+Dimensionamento Ótimo, Energia Fotovoltaica, Geração Distribuída, Microrrede.
+
+\section{Introdução}
+Diversos estudos demonstram o impacto do uso de combustíveis fósseis no meio ambiente. Somado à crescente demanda energética, a necessidade de energia proveniente de fontes não poluentes se torna evidente. Partindo desse ponto de vista, o projeto de geração próximas aos centros de consumo a partir de fontes renováveis é um modo de mitigar esses problemas. O conceito clássico de rede elétrica, onde o fluxo de energia é unidirecional, está sendo alterado devido a principalmente três fatores: integração em larga escala de geradores de energia renováveis, desenvolvimento de novas tecnologias de geração e armazenamento de energia
+próximo ao local de consumo e a adoção de sistemas de controle e comunicação da rede \cite{Pfitscher2013}.\\
+Essas mudanças têm como objetivos proporcionar a descarbonização da matriz energética, tornando o sistema sustentável, além de tornar a rede mais confiável, estável e eficiente. Todas essas transformações no sistema de energia constituem parte do conceito de Microrredes (MR), que é definido como um sistema elétrico composto por pequenas unidades geradoras, de até algumas centenas de kW, conectados a um barramento de baixa tensão, criando um sistema localmente controlado, que pode ser integrado a rede elétrica principal ou operar de maneira isolada durante desligamentos ou blecautes.
+\section{Justificativa}
+As MRs têm um papel fundamental no que diz respeito a operação resiliente dos sistemas de energia elétrica, mantendo o atendimento às cargas de maneira confiável e segura, principalmente quando o sistema está sujeito a desastres naturais ou condições climáticas extremas em que ocorrem ilhamento de parte do sistema \cite{Khodaei2014}. É capaz de integrar, controlar e gerir várias fontes de energia, armazenamento e pontos de consumo, além de outros elementos como Veículos Elétricos (VEs), de forma mais eficiente e autônoma. Devido à proximidade entre as fontes geradoras e as cargas atendidas, as MRs apresentam perdas de transmissão reduzidas em comparação aos grandes centros geradores.\\
+Outras vantagens incluem a descentralização da geração de eletricidade, o que aumenta a confiabilidade do fornecimento de energia, e a redução de emissões de gases do efeito estufa \cite{Chowdhury2009}. Essa diminuição de poluentes se dá pelo fato de que fontes não renováveis como geradores a óleo diesel são usadas apenas como último recurso. No geral as MRs são mais confiáveis, sustentáveis, eficientes, têm maior estabilidade e a melhora no perfil de tensão e reduzem as perdas de energia no sistema, além de possibilitar uma economia no consumo de energia proveniente de distribuidoras.\\
+O conceito de produzir energia próximo ao seu local de consumo segue uma tendência de acentuado crescimento nas últimas duas décadas. Essa característica é associada à Geração Distribuída (GD) quando pequenas usinas de geração substituem ou reforçam grandes centrais de energia, muitas vezes em casos em que o custo da transmissão de eletricidade é elevado, comparado com o custo da fonte, ou em que a central de energia convencional opera próximo ao seu limite de potência. O crescimento da GD produz impactos na rede convencional de energia e também exige uma preparação da rede para essa nova realidade. Os recursos de controle das fontes disponíveis nas MRs, além da possibilidade de armazenamento de energia, possibilitam a integração das GDs \cite{Pfitscher2013}.\\
+A alocação da GD em pontos inadequados pode acarretar no aumento das perdas de potência e dos custos operação e manutenção, assim ocasionando um efeito contrário ao esperado \cite{Beromi2007}. Nos últimos anos o problema de alocação e dimensionamento recebeu mais destaque, devido aos benefícios da GD ao sistema e ao surgimento das redes inteligentes (\textit{smart grid}). Diante disso, é importante considerar os aspectos econômicos e técnicos para da alocação de GD em uma MR, utilizando algum método de otimização para seu dimensionamento.\\
+O ressurgimento dos Veículos Elétricos (VEs) demonstram que esta tecnologia irá possuir um impacto significativo no setor elétrico, devido ao processo de recarga dos automóveis. A integração dos VEs na rede pode minimizar investimentos em sistemas de armazenamento de larga escala, já que as baterias dos veículos permitem que o excedente de energia produzido seja injetado na rede, colaborando assim com o desempenho do sistema em que se encontram conectados \cite{Rebechi2008}. Por outro lado, esta participação pode levar a mudanças significativas do comportamento da carga, elevando os níveis de consumo em períodos normalmente estáveis, com o risco de sobrecarregar equipamentos que compõem o sistema de distribuição de energia, ameaçando o equilíbrio da operação do sistema como um todo \cite{Leou2014}.
+
+\section{Objetivos}
+\subsection{Objetivo Geral}
+O objetivo principal desse trabalho é realizar a avaliação de viabilidade econômica e energética para uma proposta de MR, em um sistema real, como alternativa ambientalmente sustentável para a oferta de energia elétrica.
+\subsection{Objetivos Específicos}
+	\begin{itemize}
+	\item Estudo das características da MR utilizada para a avaliação;
+	\item Inserção de eletropostos de carregamento de VEs na MR, aumentando sua demanda de energia;
+	\item Alocação e dimensionamento ótimo de GDs para o atendimento das cargas;
+	\item Avaliação do impacto energético e econômico na MR. Analisando a redução na fatura de energia, calculando o \textit{payback} do investimento nas GDs e consequências econômicas causadas pela implantação dos postos de carregamento.
+\end{itemize}
+
+\section{Proposta Metodólogica}
+O projeto considerará uma rede elétrica real para projetar a estrutura de uma MR, analisando sua curva de carga inicial e posteriormente com a inserção de postos de carregamento de VEs de acordo com o perfil de carregamento. Com o intuito de tornar o sistema mais confiável e sustentável, serão adiciona-dos pontos de GDs ao logo da rede. A MR será projetada para proporcionar um ambiente  de pesquisa, desenvolvimento e ensino oferecendo flexibilidade operativa, para isto serão desenvolvidas as seguintes atividades:
+\begin{enumerate}
+	\item Obtenção dos créditos necessários;
+	\item Revisão da literatura quanto a composição de uma MR, do problema de alocação e dimensionamento de GD e da integração de postos de carregamento de VEs;
+	\item Escolha da MR a ser avaliada e compreensão de suas características;
+	\item Realização um estudo para a alocação dos postos de recarga;
+	\item Produção e publicação de artigos científicos relacionados a pesquisa no inicio de cada semestre do segundo ano;
+	\item Estudo das cargas estabelecidas na MR;
+	\item Realizar a alocação e dimensionamento ótimo das GDs com base nas informações obtidas na atividade anterior, na disponibilidade de recursos energéticos da região e dos custos para a integração da GD;
+	\item Realização da avaliação do impacto energéticos e econômico na MR;
+	\item Revisão dos resultados obtidos e redação final da dissertação de mestrado.
+\end{enumerate}
+\section{Cronograma de Execução}
+\begin{figure*}[!htbp]
+	\centering
+	\includegraphics[scale=0.8]{cronograma}
+\end{figure*}
+\nocite{*}
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEexample}
+
+\end{document}
