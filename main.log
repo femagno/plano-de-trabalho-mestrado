@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.28)  26 JUL 2019 11:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.28)  26 JUL 2019 15:56
 entering extended mode
 **./main.tex
 (main.tex
@@ -109,22 +109,67 @@ LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <18> not available
 \c@subsubsection=\count84
 \c@paragraph=\count85
 \c@IEEEsubequation=\count86
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/06/03 3.32 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/06/03 3.32 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-portuges\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/06/03 3.32 Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen116
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count88
+)
+\l@brazilian = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+phv on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+))
 \abovecaptionskip=\skip42
 \belowcaptionskip=\skip43
-\c@figure=\count87
-\c@table=\count88
-\@IEEEeqnnumcols=\count89
-\@IEEEeqncolcnt=\count90
-\@IEEEtmpitemindent=\dimen116
-\c@IEEEbiography=\count91
+\c@figure=\count89
+\c@table=\count90
+\@IEEEeqnnumcols=\count91
+\@IEEEeqncolcnt=\count92
+\@IEEEtmpitemindent=\dimen117
+\c@IEEEbiography=\count93
 \@IEEEtranrubishbin=\box27
-\footheight=\dimen117
+\footheight=\dimen118
+
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks17
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
@@ -140,17 +185,12 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen118
-\Gin@req@width=\dimen119
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
-) (dtk-logos.sty
+(dtk-logos.sty
 Package: dtk-logos 2017/06/07 v. 1.01 Dante Edition: Logos (hv)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hologo.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hologo.sty"
 Package: hologo 2017/05/01 v1.13 A logo collection with bookmark support (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
@@ -205,11 +245,6 @@ Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
  ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)
-LaTeX Font Info:    Try loading font information for T1+phv on input line 105.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd"
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )))) (main.aux)
 \openout1 = `main.aux'.
 
@@ -300,16 +335,16 @@ LaTeX Font Info:    Font shape `T1/phv/b/it' in size <18> not available
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count92
-\scratchdimen=\dimen120
+\scratchcounter=\count94
+\scratchdimen=\dimen121
 \scratchbox=\box28
-\nofMPsegments=\count93
-\nofMParguments=\count94
+\nofMPsegments=\count95
+\nofMParguments=\count96
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count95
-\MPscratchDim=\dimen121
-\MPnumerator=\count96
-\makeMPintoPDFobject=\count97
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen122
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
 \everyMPtoPDFconversion=\toks19
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -328,41 +363,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 
-LaTeX Warning: Citation `Agostinho2019' on page 1 undefined on input line 33.
-
-
-LaTeX Warning: Citation `M8Prodist' on page 1 undefined on input line 33.
-
-
-LaTeX Warning: Citation `Mello2018' on page 1 undefined on input line 34.
-
-
-LaTeX Warning: Citation `Mercer2016' on page 1 undefined on input line 42.
-
-
-LaTeX Warning: Citation `Mello2018' on page 1 undefined on input line 42.
-
-
-LaTeX Warning: Citation `Fassbinder2016' on page 1 undefined on input line 44.
-
-
-LaTeX Warning: Citation `Mercer2016' on page 1 undefined on input line 44.
-
-
-LaTeX Warning: Citation `Deng2002' on page 1 undefined on input line 45.
-
-
-LaTeX Warning: Citation `Ulinuha2008' on page 1 undefined on input line 45.
-
-
-LaTeX Warning: Citation `LiangeWang2003' on page 1 undefined on input line 45.
-
-
-LaTeX Warning: Citation `(LiangeWang2003' on page 1 undefined on input line 45.
-
-
-
-LaTeX Warning: Citation `Auchariyamet2010' on page 1 undefined on input line 45
+LaTeX Warning: Citation `Auchariyamet2010' on page 1 undefined on input line 44
 .
 
 
@@ -432,9 +433,15 @@ Non-PDF special ignored!
 <special> color pop
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 62.
+(Font)              <7> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 62.
+(Font)              <5> on input line 61.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 61.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsphv.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
 
 Overfull \vbox (7.25pt too high) has occurred while \output is active []
 
@@ -495,7 +502,13 @@ Non-PDF special ignored!
 <special> color push cmyk 1.0 0.93 0.12 0.15
 Non-PDF special ignored!
 <special> color pop
-] (main.bbl)
+]
+<cronograma.png, id=14, 765.6103pt x 258.21469pt>
+File: cronograma.png Graphic file (type png)
+<use cronograma.png>
+Package pdftex.def Info: cronograma.png  used on input line 86.
+(pdftex.def)             Requested size: 382.80421pt x 129.10703pt.
+ (main.bbl)
 Overfull \vbox (7.25pt too high) has occurred while \output is active []
 
  [3
@@ -535,27 +548,28 @@ Non-PDF special ignored!
 <special> color push cmyk 1.0 0.93 0.12 0.15
 Non-PDF special ignored!
 <special> color pop
-] (main.aux)
+ <./cronograma.png>] (main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2944 strings out of 492895
- 44782 string characters out of 3133452
- 119215 words of memory out of 3000000
- 6831 multiletter control sequences out of 15000+200000
- 99252 words of font info for 96 fonts, out of 3000000 for 9000
+ 3552 strings out of 492895
+ 53267 string characters out of 3133452
+ 137796 words of memory out of 3000000
+ 7409 multiletter control sequences out of 15000+200000
+ 100406 words of font info for 97 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,7n,25p,870b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,7n,25p,856b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
-w/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
-vr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (3 pages, 66711 bytes).
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvet
+ic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (3 pages, 91812 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

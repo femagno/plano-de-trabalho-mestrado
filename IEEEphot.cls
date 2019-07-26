@@ -1642,7 +1642,9 @@
 % it, through IEEEtran's \theequationdis
 \def\@eqnnum{\theequationdis}
 
-
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 
 % V1.7 provide string macros as article.cls does
 \def\contentsname{Contents}
