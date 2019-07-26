@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.28)  24 JUL 2019 11:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.28)  26 JUL 2019 11:07
 entering extended mode
 **./main.tex
 (main.tex
@@ -327,6 +327,45 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
+
+LaTeX Warning: Citation `Agostinho2019' on page 1 undefined on input line 33.
+
+
+LaTeX Warning: Citation `M8Prodist' on page 1 undefined on input line 33.
+
+
+LaTeX Warning: Citation `Mello2018' on page 1 undefined on input line 34.
+
+
+LaTeX Warning: Citation `Mercer2016' on page 1 undefined on input line 42.
+
+
+LaTeX Warning: Citation `Mello2018' on page 1 undefined on input line 42.
+
+
+LaTeX Warning: Citation `Fassbinder2016' on page 1 undefined on input line 44.
+
+
+LaTeX Warning: Citation `Mercer2016' on page 1 undefined on input line 44.
+
+
+LaTeX Warning: Citation `Deng2002' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `Ulinuha2008' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `LiangeWang2003' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `(LiangeWang2003' on page 1 undefined on input line 45.
+
+
+
+LaTeX Warning: Citation `Auchariyamet2010' on page 1 undefined on input line 45
+.
+
+
 Overfull \vbox (7.25pt too high) has occurred while \output is active []
 
  [1
@@ -393,9 +432,9 @@ Non-PDF special ignored!
 <special> color pop
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
+(Font)              <5> on input line 62.
 
 Overfull \vbox (7.25pt too high) has occurred while \output is active []
 
@@ -460,10 +499,10 @@ Non-PDF special ignored!
 <cronograma.png, id=13, 590.205pt x 210.7875pt>
 File: cronograma.png Graphic file (type png)
 <use cronograma.png>
-Package pdftex.def Info: cronograma.png  used on input line 70.
+Package pdftex.def Info: cronograma.png  used on input line 84.
 (pdftex.def)             Requested size: 472.16464pt x 168.63022pt.
 
-Overfull \hbox (40.16464pt too wide) in paragraph at lines 70--71
+Overfull \hbox (40.16464pt too wide) in paragraph at lines 84--85
  [][] 
  []
 
@@ -507,22 +546,25 @@ Non-PDF special ignored!
 <special> color push cmyk 1.0 0.93 0.12 0.15
 Non-PDF special ignored!
 <special> color pop
- <./cronograma.png>] (main.aux) ) 
+ <./cronograma.png>] (main.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
  2950 strings out of 492895
- 44819 string characters out of 3133452
- 119233 words of memory out of 3000000
+ 44875 string characters out of 3133452
+ 119215 words of memory out of 3000000
  6835 multiletter control sequences out of 15000+200000
  99252 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,7n,25p,858b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/b
-ase/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (3 pages, 78485 bytes).
+ 37i,7n,25p,870b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
+vr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (3 pages, 79336 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
