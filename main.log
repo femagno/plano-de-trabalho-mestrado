@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.28)  26 JUL 2019 11:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.28)  26 JUL 2019 11:38
 entering extended mode
 **./main.tex
 (main.tex
@@ -495,18 +495,7 @@ Non-PDF special ignored!
 <special> color push cmyk 1.0 0.93 0.12 0.15
 Non-PDF special ignored!
 <special> color pop
-]
-<cronograma.png, id=13, 590.205pt x 210.7875pt>
-File: cronograma.png Graphic file (type png)
-<use cronograma.png>
-Package pdftex.def Info: cronograma.png  used on input line 84.
-(pdftex.def)             Requested size: 472.16464pt x 168.63022pt.
-
-Overfull \hbox (40.16464pt too wide) in paragraph at lines 84--85
- [][] 
- []
-
-(main.bbl)
+] (main.bbl)
 Overfull \vbox (7.25pt too high) has occurred while \output is active []
 
  [3
@@ -546,16 +535,16 @@ Non-PDF special ignored!
 <special> color push cmyk 1.0 0.93 0.12 0.15
 Non-PDF special ignored!
 <special> color pop
- <./cronograma.png>] (main.aux)
+] (main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2950 strings out of 492895
- 44875 string characters out of 3133452
+ 2944 strings out of 492895
+ 44782 string characters out of 3133452
  119215 words of memory out of 3000000
- 6835 multiletter control sequences out of 15000+200000
+ 6831 multiletter control sequences out of 15000+200000
  99252 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,7n,25p,870b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -564,9 +553,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
 w/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
 vr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (3 pages, 79336 bytes).
+Output written on main.pdf (3 pages, 66711 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
